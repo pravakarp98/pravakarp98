@@ -1,3 +1,3 @@
 
 <h1 align=center >Hi, am Pravakar</h1>
-Software Developer
+A Software Developer, Programmer, and Graphics Desginer from Odisha, India. 
