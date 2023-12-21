@@ -18,6 +18,7 @@ My expertise lies in Python, Django, FastAPI, and Linux. I've built experience w
 Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm well-versed in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects. 
 </p>
 
+</br>
 </hr>
 
 <h3>Technical Skills 💻 </h3>
