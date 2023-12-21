@@ -15,7 +15,9 @@ I hold a Master's degree in Computer Science and currently enjoy working as a So
 
 My expertise lies in Python, Django, FastAPI, and Linux. I've built experience with both web-based and multi-threaded applications, and I'm adept at deploying them using Docker and Kubernetes. My passion lies in developing customer-centric applications, backed by robust test automation strategies. I'm also proficient in conducting business requirements and technical analysis.
 
-Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm well-versed in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects. 
+Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm well-versed in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects.
+
+Contributing to open-source projects, fostering collaboration, and sharing knowledge. Passionate about building a more inclusive and accessible tech community. Always looking for ways to give back and make a difference. ️Architecting robust and performant backend systems that power seamless user experiences. Proficient in Java, Python, Node.js, and cloud platforms. Obsessed with optimization and security. Always seeking to push the boundaries of what's possible.
 </p>
 
 </br>
