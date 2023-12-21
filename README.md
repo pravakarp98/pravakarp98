@@ -20,7 +20,7 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
 
 </hr>
 
-<h3>Technical Skills</h3>
+<h3>Technical Skills 💻 </h3>
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-darkcyan?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -37,4 +37,7 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
   <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white">
 </p>
+
+
