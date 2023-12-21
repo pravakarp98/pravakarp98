@@ -22,7 +22,19 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
 
 <h3>Technical Skills</h3>
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow">
-  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/fastapi-darkcyan?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rabbitmq-orange?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mogodb-brown?style=for-the-badge&logo=mongodb">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-blue?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sentry-deeppink?style=for-the-badge&logo=sentry&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/kibana-skyblue?style=for-the-badge&logo=kibana&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white">
 </p>
