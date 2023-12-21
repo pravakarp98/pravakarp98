@@ -43,4 +43,4 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
   <img alt="Static Badge" src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binarytreenode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binarytreenode&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
