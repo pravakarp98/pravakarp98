@@ -11,12 +11,15 @@
 
 <h3>About Me 👨 </h3>
 <p>
-I have completed my Master's in Computer Science. Currently, I have been working as a Software Developer.
+I hold a Master's degree in Computer Science and currently enjoy working as a Software Developer.
 
-I specialize in <b>Python, Django, fast API, and Linux</b> and have worked with both web-based and multi-threaded applications as well as deployment using Docker and Kubernetes. I am a specialist in developing customer service-oriented applications with solid test automation strategies.
+My expertise lies in Python, Django, FastAPI, and Linux. I've built experience with both web-based and multi-threaded applications, and I'm adept at deploying them using Docker and Kubernetes. My passion lies in developing customer-centric applications, backed by robust test automation strategies. I'm also proficient in conducting business requirements and technical analysis.
 
-In addition to my skills in coding, I am skilled in conducting technical analysis.
-
- 
+Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm well-versed in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects. 
 </p>
 
+</hr>
+
+<h3>Technical Skills</h3>
+![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi)
