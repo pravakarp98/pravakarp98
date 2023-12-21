@@ -9,7 +9,7 @@
 
 </hr>
 
-<h4>About Me 👨 </h4>
+<h3>About Me 👨 </h3>
 <p>
 I have completed my Master's in Computer Science. Currently, I have been working as a Software Developer.
 
