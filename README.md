@@ -44,5 +44,3 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
 </p>
 
 [![Pravakar Paltasingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=binarytreenode&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-#9999FF
