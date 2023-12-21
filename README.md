@@ -29,7 +29,7 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
   <img alt="Static Badge" src="https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/rabbitmq-orange?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mogodb-brown?style=for-the-badge&logo=mongodb">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/elasticsearch-blue?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/sentry-deeppink?style=for-the-badge&logo=sentry&logoColor=white">
