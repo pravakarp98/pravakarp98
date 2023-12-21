@@ -21,5 +21,8 @@ Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm 
 </hr>
 
 <h3>Technical Skills</h3>
-![Static Badge](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow)
-![Static Badge](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi)
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi">
+  
+</p>
