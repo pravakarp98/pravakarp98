@@ -11,7 +11,7 @@
 
 <h3>About Me 👨 </h3>
 <p>
-I hold a Master's degree in Computer Science and currently enjoy working as a Software Developer.
+I hold a Master's degree in Computer Application and currently enjoy working as a Software Developer.
 
 My expertise lies in Python, Django, FastAPI, and Linux. I've built experience with both web-based and multi-threaded applications, and I'm adept at deploying them using Docker and Kubernetes. My passion lies in developing customer-centric applications, backed by robust test automation strategies. I'm also proficient in conducting business requirements and technical analysis.
 
