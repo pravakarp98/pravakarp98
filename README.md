@@ -10,7 +10,7 @@
 </p>
 
 </hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ellie-sleightholm&label=Profile%20views&color=0e75b6&style=flat" alt="ellie-sleightholm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravakarp98&label=Profile%20views&color=0e75b6&style=flat" alt="pravakarp98" /> </p>
 
 <h3>About Me 👨 </h3>
 <p>
