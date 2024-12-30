@@ -6,7 +6,7 @@
   <a href="https://twitter.com/_pravakar_"><img width="30" height="30" src="https://img.icons8.com/ios/50/twitterx--v1.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/pravakar-paltasingh-0b5a661a5/"><img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:paltasingh10@gmail.com"><img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
-  <a href="https://www.instagram.com/pravakarpaltasingh_/"><img width="30" height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+  <a href="https://www.instagram.com/pravakarpaltasingh_/"><img width="30" height="30" src="https://img.icons8.com/ios/50/twitterx--v1.png"/></a>
 </p>
 
 </hr>
@@ -14,13 +14,13 @@
 
 <h3>About Me 👨 </h3>
 <p>
-I hold a Master's degree in Computer Application and currently enjoy working as a Software Developer.
+I hold a Master’s degree in Computer Applications and currently work as a Software Developer. My expertise spans Python, Django, FastAPI, and Linux, with experience in building web-based and multi-threaded applications. I excel in deploying applications using Docker and Kubernetes, ensuring scalability and efficiency.
 
-My expertise lies in Python, Django, FastAPI, and Linux. I've built experience with both web-based and multi-threaded applications, and I'm adept at deploying them using Docker and Kubernetes. My passion lies in developing customer-centric applications, backed by robust test automation strategies. I'm also proficient in conducting business requirements and technical analysis.
+My passion lies in developing customer-centric applications underpinned by robust test automation strategies. I’m skilled in conducting business requirements analysis and translating them into technical solutions. Additionally, I actively contribute to open-source projects and promote collaboration and knowledge sharing to foster an inclusive and accessible tech community.
 
-Contributing to open-source projects, fostering collaboration, and sharing knowledge. Passionate about building a more inclusive and accessible tech community. Always looking for ways to give back and make a difference. ️Architecting robust and performant backend systems that power seamless user experiences. Proficient in Java, Python, Node.js, and cloud platforms. Obsessed with optimization and security. Always seeking to push the boundaries of what's possible.
+I specialize in architecting robust, secure, and high-performing backend systems using technologies like Java, Python, Node.js, and cloud platforms. I thrive on optimization challenges and continually seek to push the boundaries of what’s possible.
 
-Beyond my technical skillset, I possess strong Graphic Design capabilities. I'm well-versed in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects.
+Beyond software development, I bring strong graphic design capabilities to the table, with proficiency in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects.
 </p>
 
 </br>
