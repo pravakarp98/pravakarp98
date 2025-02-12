@@ -14,7 +14,9 @@
 
 <h3>About Me 👨 </h3>
 <p>
-I hold a Master’s degree in Computer Applications and currently work as a Software Developer. My expertise spans Python, Django, FastAPI, and Linux, with experience in building web-based and multi-threaded applications. I excel in deploying applications using Docker and Kubernetes, ensuring scalability and efficiency.
+Software Engineer & Developer | 2.5+ Years Exp | Expert in Python, Django, FastAPI, SQL, NoSQL, Docker, Kubernetes, Ansible, Kafka, Linux, Machine Learning, and Deep Learning
+
+Results-driven Software Engineer with over 2.5 years of experience in building scalable, efficient, and robust solutions. Skilled in Python, full-stack development, AI/ML, and automation, with a proven track record of optimizing workflows and enhancing system performance. Passionate about leveraging cutting-edge technologies to deliver impactful, innovative applications.
 
 My passion lies in developing customer-centric applications underpinned by robust test automation strategies. I’m skilled in conducting business requirements analysis and translating them into technical solutions. Additionally, I actively contribute to open-source projects and promote collaboration and knowledge sharing to foster an inclusive and accessible tech community.
 
