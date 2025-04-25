@@ -14,19 +14,19 @@
 
 <h3>About Me 👨 </h3>
 <p>
-**Passionate about building scalable, efficient, and robust solutions with a focus on customer-centric applications and robust test automation.**
+Passionate about building scalable, efficient, and robust solutions focusing on customer-centric applications and robust test automation.
 
-**Expertise:**
+Expertise:
 
-* **Languages & Frameworks:** Python (Django, FastAPI), Java, Node.js
-* **Databases:** SQL, NoSQL
-* **Cloud & DevOps:** Docker, Kubernetes, Ansible, Kafka, Linux
-* **AI/ML:** Machine Learning, Deep Learning
-* **Other:** Business Requirements Analysis, Open-Source Contribution
+* Languages & Frameworks: Python (Django, FastAPI), Java, Node.js
+* Databases: SQL, NoSQL
+* Cloud & DevOps: Docker, Kubernetes, Ansible, Kafka, Linux
+* AI/ML: Machine Learning, Deep Learning
+* Other: Business Requirements Analysis, Open-Source Contribution
 
-**Driven to leverage cutting-edge technologies for impactful and innovative applications. Proven track record of optimizing workflows and enhancing system performance.**
+Driven to leverage cutting-edge technologies for impactful and innovative applications. Proven track record of optimizing workflows and enhancing system performance.
 
-**Also skilled in Graphic Design (Figma, Adobe Suite).**
+Also skilled in Graphic Design (Figma, Adobe Suite).
 </p>
 
 </br>
