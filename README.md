@@ -14,15 +14,19 @@
 
 <h3>About Me 👨 </h3>
 <p>
-Software Engineer & Developer | 2.5+ Years Exp | Expert in Python, Django, FastAPI, SQL, NoSQL, Docker, Kubernetes, Ansible, Kafka, Linux, Machine Learning, and Deep Learning
+**Passionate about building scalable, efficient, and robust solutions with a focus on customer-centric applications and robust test automation.**
 
-Results-driven Software Engineer with over 2.5 years of experience in building scalable, efficient, and robust solutions. Skilled in Python, full-stack development, AI/ML, and automation, with a proven track record of optimizing workflows and enhancing system performance. Passionate about leveraging cutting-edge technologies to deliver impactful, innovative applications.
+**Expertise:**
 
-My passion lies in developing customer-centric applications underpinned by robust test automation strategies. I’m skilled in conducting business requirements analysis and translating them into technical solutions. Additionally, I actively contribute to open-source projects and promote collaboration and knowledge sharing to foster an inclusive and accessible tech community.
+* **Languages & Frameworks:** Python (Django, FastAPI), Java, Node.js
+* **Databases:** SQL, NoSQL
+* **Cloud & DevOps:** Docker, Kubernetes, Ansible, Kafka, Linux
+* **AI/ML:** Machine Learning, Deep Learning
+* **Other:** Business Requirements Analysis, Open-Source Contribution
 
-I specialize in architecting robust, secure, and high-performing backend systems using technologies like Java, Python, Node.js, and cloud platforms. I thrive on optimization challenges and continually seek to push the boundaries of what’s possible.
+**Driven to leverage cutting-edge technologies for impactful and innovative applications. Proven track record of optimizing workflows and enhancing system performance.**
 
-Beyond software development, I bring strong graphic design capabilities to the table, with proficiency in tools like Figma, Photoshop, Illustrator, Premiere Pro, and After Effects.
+**Also skilled in Graphic Design (Figma, Adobe Suite).**
 </p>
 
 </br>
