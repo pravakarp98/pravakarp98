@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there 👋, I'm Pravakar </h2>
 
-<p align="center">Software Developer & Engineer | Machine Learning Engineer | Graphics Desginer</p>
+<p align="center">Software Developer & Engineer | AI/ML Engineer | Graphics Desginer</p>
 
 <p align="center">
   <a href="https://twitter.com/_pravakar_"><img width="30" height="30" src="https://img.icons8.com/ios/50/twitterx--v2.png" alt="twitter"/></a>
@@ -14,19 +14,35 @@
 
 <h3>About Me 👨 </h3>
 <p>
-Passionate about building scalable, efficient, and robust solutions focusing on customer-centric applications and robust test automation.
+Passionate about building scalable, efficient, and resilient solutions with a strong focus on customer-centric applications and robust test automation.
 
-Expertise:
+**Core Expertise:**
 
-* Languages & Frameworks: Python (Django, FastAPI), Java, Node.js
-* Databases: SQL, NoSQL
-* Cloud & DevOps: Docker, Kubernetes, Ansible, Kafka, Linux
-* AI/ML: Machine Learning, Deep Learning
-* Other: Business Requirements Analysis, Open-Source Contribution
+* Languages & Frameworks:
+  Python (Django, FastAPI, Flask), Java, Node.js, React
+* Databases:
+  SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis, Cassandra)
+* Cloud & DevOps:
+  Docker, Kubernetes, Ansible, Linux, AWS (Lambda, EC2, S3, SageMaker)
+* Messaging & Caching:
+  Kafka, RabbitMQ, Redis, Memcached, KeyDB
+* AI/ML & Intelligent Automation:
+  Deep Learning, CNN, RNN, NLP, Computer Vision, Generative AI (GenAI), Agentic AI
+Tools: TensorFlow, PyTorch
+* Automation Tools:
+  n8n, UiPath
+* Others:
+  Business Requirements Analysis, Open-Source Contributions
 
-Driven to leverage cutting-edge technologies for impactful and innovative applications. Proven track record of optimizing workflows and enhancing system performance.
+Driven to harness cutting-edge technologies to deliver impactful, high-performance solutions. Demonstrated success in optimizing workflows, automating processes, and improving system reliability and scalability.
 
-Also skilled in Graphic Design (Figma, Adobe Suite).
+**Creative & Design Skills:**
+Skilled in graphic and digital design with experience in:
+
+Portraits, Logos, Brochures, Social Media Content, Product, UI/UX (Web, Android & iOS) & Brand Design
+
+Tools:
+Figma, Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, XD, InDesign)
 </p>
 
 </br>
