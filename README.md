@@ -1,37 +1,36 @@
-<h2 align="center"> Hey there 👋, I'm Pravakar </h2>
+> "Transforming ideas into code. Crafter of clean, efficient, and scalable solutions. Every Week I work on new ideas"
 
-<p align="center">Software Developer & Engineer | AI/ML Engineer | Graphics Desginer</p>
-
-<p align="center">
-  <a href="https://twitter.com/_pravakar_"><img width="30" height="30" src="https://img.icons8.com/ios/50/twitterx--v2.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/pravakar-paltasingh-0b5a661a5/"><img width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:paltasingh10@gmail.com"><img width="30" height="30" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/></a>
-  <a href="https://www.instagram.com/pravakarpaltasingh_/"><img width="30" height="30" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram"/></a>
-</p>
-
-</hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravakarp98&label=Profile%20views&color=0e75b6&style=flat" alt="pravakarp98" /> </p>
 
-<h3>About Me 👨 </h3>
-<p>
-Passionate about building scalable, efficient, and resilient solutions with a strong focus on customer-centric applications and robust test automation.
+## About Me
+```python
+class Pravakar:
+  role: Software Developer,
+  focus: backend, MLOps, APIs, Computer Vision, GenAI, LLM, Agentic AI, and NLP
+  passion: Building scalable, efficient, and resilient solutions with a strong focus on customer-centric applications and robust test automation.
+```
 
-**Core Expertise:**
-
-* Languages & Frameworks:
+## Tech Stack
+### Languages & Frameworks:
   Python (Django, FastAPI, Flask), Java, Node.js, React
-* Databases:
+  
+### Databases:
   SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis, Cassandra)
-* Cloud & DevOps:
+
+### Cloud & DevOps:
   Docker, Kubernetes, Ansible, Linux, AWS (Lambda, EC2, S3, SageMaker)
-* Messaging & Caching:
+  
+### Messaging & Caching:
   Kafka, RabbitMQ, Redis, Memcached, KeyDB
-* AI/ML & Intelligent Automation:
+
+### AI/ML & Intelligent Automation:
   Deep Learning, CNN, RNN, NLP, Computer Vision, Generative AI (GenAI), Agentic AI
 Tools: TensorFlow, PyTorch
-* Automation Tools:
+
+### Automation Tools:
   n8n, UiPath
-* Others:
+
+### Others:
   Business Requirements Analysis, Open-Source Contributions
 
 Driven to harness cutting-edge technologies to deliver impactful, high-performance solutions. Demonstrated success in optimizing workflows, automating processes, and improving system reliability and scalability.
