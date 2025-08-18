@@ -1,8 +1,10 @@
 > *"Transforming ideas into code. Crafter of clean, efficient, and scalable solutions. Every Week I work on new ideas"*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravakarp98&label=Profile%20views&color=0e75b6&style=flat" alt="pravakarp98" /> </p>
+![pravakarp98](https://komarev.com/ghpvc/?username=pravakarp98&label=Profile%20views&color=0e75b6&style=flat)  
 
-## About Me
+![Static Badge](https://img.shields.io/badge/Problem_Solver-green?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Explorer-blue?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Contributor-brown?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Open_Sourcerer-magenta?style=flat&logoColor=white)
+
+## About Me 👨‍💻
 ```python
 class Bio:
   name: "Pravakar Paltasingh",
