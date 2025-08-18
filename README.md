@@ -2,8 +2,6 @@
 
 ![pravakarp98](https://komarev.com/ghpvc/?username=pravakarp98&label=Profile%20views&color=0e75b6&style=flat)  
 
-![Static Badge](https://img.shields.io/badge/Problem_Solver-green?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Explorer-blue?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Contributor-brown?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Open_Sourcerer-magenta?style=flat&logoColor=white)
-
 ## About Me 👨‍💻
 ```python
 class Bio:
@@ -12,6 +10,7 @@ class Bio:
   focus: "Backend, MLOps, APIs, Computer Vision, GenAI, LLM, Agentic AI, and NLP"
   passion: "Building scalable, efficient, and resilient solutions with a strong focus on customer-centric applications and robust test automation"
 ```
+![Static Badge](https://img.shields.io/badge/Problem_Solver-green?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Explorer-blue?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Contributor-brown?style=flat&logoColor=white) ![Static Badge](https://img.shields.io/badge/Open_Sourcerer-magenta?style=flat&logoColor=white)
 
 **Driven to harness cutting-edge technologies to deliver impactful, high-performance solutions. Demonstrated success in optimizing workflows, automating processes, and improving system reliability and scalability**
 
