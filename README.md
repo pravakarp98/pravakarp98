@@ -30,14 +30,17 @@ Skilled in graphic and digital design with experience in:
 Portraits, Logos, Brochures, Social Media Content, Product, UI/UX (Web, Android & iOS) & Brand Design
 
 #### Tools
-Figma, Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, XD, InDesign)
+[![My_Graphics_Skills](https://skillicons.dev/icons?i=figma,ae,photoshop,premiere,illustrator&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Technical Skills 💻
 ![](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/fastapi-darkcyan?style=for-the-badge&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/django-darkgreen?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask&logoColor=white) ![](https://img.shields.io/badge/react-sky_blue?style=for-the-badge&logo=react&logoColor=white)
  ![](https://img.shields.io/badge/rabbitmq-orange?style=for-the-badge&logo=rabbitmq&logoColor=white) ![](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/mongodb-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/elasticsearch-blue?style=for-the-badge&logo=elasticsearch&logoColor=white) ![](https://img.shields.io/badge/sentry-deeppink?style=for-the-badge&logo=sentry&logoColor=white) ![](https://img.shields.io/badge/kibana-skyblue?style=for-the-badge&logo=kibana&logoColor=white) ![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=white) ![](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
-## Weekly development breakdown 📊
+### Languages and Tools 💻
+[![My Skills](https://skillicons.dev/icons?i=anaconda,ansible,bash,bootstrap,c,cpp,css,cassandra,cloudflare,debian,discord,django,docker,dynamodb,elasticsearch,fastapi,figma,firebase,flask,git,gitlab,github,githubactions,grafana,graphql,html,heroku,javascript,jenkins,kafka,kali,kubernetes,linux,markdown,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,opencv,postgresql,postman,powershell,prometheus,pytorch,python,r,rabbitmq,react,redis,redux,regex,sqlite,sass,scikitlearn,sentry,sublime,tailwindcss,tensorflow,terraform,typescript,ubuntu,vim,vscode,vercel,vite,windows,xd,photoshop,illustrator,premiere,yarn&theme=dark&perline=15)](https://skillicons.dev)
 
+## Weekly development breakdown 📊
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -52,3 +55,4 @@ React                   32 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+</div>
